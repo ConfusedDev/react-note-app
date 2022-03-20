@@ -3,7 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+html {
+  font-family: "Montserrat", sans-serif;
+}
 body {
   background: #ddd;
   padding: 0 16px;
@@ -18,11 +20,8 @@ header {
 
 header h1 {
   color: #fff;
+  font-family: "McLaren", cursive;
   font-weight: 200;
-}
-
-html {
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 footer {
